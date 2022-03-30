@@ -27,28 +27,28 @@ Throughout the development of my strategy, I relied on the study of the differen
 
 * I first display the image (Ima_Mystere.tiff) provided and its histogram :
 
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image1.png?raw=true)
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image2.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image1.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image2.png?raw=true)
 
 * I then equalise the image, which gives me the following results :
 
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image3.png?raw=true)
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image4.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image3.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image4.png?raw=true)
 
 * I observe an impulse noise and in order to remove it I apply a median filter on the image previously obtained, which gives :
 
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image5.png?raw=true)
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image6.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image5.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image6.png?raw=true)
 
 * I invert the colours of the image to give the following image and histogram :
 
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image7.png?raw=true)
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image8.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image7.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image8.png?raw=true)
 
 * Next, I try to increase the contrast on the image and to do this I will compare two images with different alpha values (see in the code). This gives the following images and histograms :
 
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image9.png?raw=true)
-![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/Image10.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image9.png?raw=true)
+![alt text](https://github.com/Clerbout-Francois/Picture_quality_improvement/blob/main/images_improvement/Image10.png?raw=true)
 
 [Table of Contents](#table_of_contents)
 <a name="conclusion_"/>
